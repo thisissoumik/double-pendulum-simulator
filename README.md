@@ -187,8 +187,6 @@ double-pendulum-simulator/
 │   ├── double_pendulum_simulation.m      # Main simulation script
 │   ├── odefunction.m                      # ODE solver function
 │   └── Double_pendulum_simulator.mlapp    # Interactive App Designer GUI
-├── docs/
-│   └── Project_Report.pdf                 # Full technical documentation
 ├── README.md                              # This file
 ├── LICENSE                                # MIT License
 └── .gitignore                             # Git ignore rules
@@ -337,7 +335,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or collaboration:
-- Email: soumik.saha@example.com
+- Email: 2006011@eee.buet.ac.bd
 - GitHub Issues: [Create an issue](https://github.com/soumik-saha/double-pendulum-simulator/issues)
 
 ---
