@@ -1,0 +1,29 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.autosave
+*.mex*
+
+# Data files
+*.mat
+*.csv
+*.dat
+
+# Videos/Images
+*.avi
+*.mp4
+*.gif
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# MATLAB App Designer
+*.mlappinstall
+
+# Temporary files
+*.tmp
+*.bak
